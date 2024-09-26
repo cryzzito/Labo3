@@ -1,9 +1,14 @@
+body{
+    background-color: rgb(117, 255, 209);
+}
 table, td, th {
-    border-width: 2px;
+    border-width: 6px;
     border-style: solid;
-    border-color: rgb(255, 0, 0);
+    border-color: black;
     border-collapse: collapse;
     text-align: center;
+    height: 32px;
+    width: 512px;
 }
 table{
     margin: auto;
