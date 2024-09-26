@@ -1,7 +1,11 @@
 table, th, td{
     border: 2px solid black;
     border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
 }
 td{
     text-align: center;
+}
+th{
+    font-weight: bolder;
 }
